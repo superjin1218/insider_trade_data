@@ -1,0 +1,2 @@
+txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
+2025-12-30,2025-12-31 00:00:00,0000807249-25-000183,LGL,LGL GROUP INC,0000061004,AMEX,3679,"Electronic Components, Nec",Manufacturing,GABELLI MARIO J,0001185533,,false,false,true,P,95387.0,4.75,453088.25,572324.0,I,48399219.62374449,0.009361478418914765

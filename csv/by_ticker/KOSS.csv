@@ -1,0 +1,2 @@
+txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
+2025-12-02,2025-12-04 00:00:00,0001193125-25-308136,KOSS,KOSS CORP,0000056701,NASDAQ,3651,Household Audio & Video Equipment,Manufacturing,LILLIE LENORE,0001216781,,true,false,false,P,2500.0,4.96,12400.0,2500.0,D,41841656.6822319,0.0002963553784251968

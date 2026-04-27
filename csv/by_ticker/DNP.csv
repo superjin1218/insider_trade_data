@@ -1,0 +1,2 @@
+txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
+2026-02-11,2026-02-12 00:00:00,0001213900-26-015627,DNP,DNP SELECT INCOME FUND INC,0000806628,NYSE,,,,Kahrer Mark G.,0002060461,,true,false,false,P,20000.0,10.21,204200.00000000003,23000.0,D,4039523557.582121,5.0550515943079454e-05

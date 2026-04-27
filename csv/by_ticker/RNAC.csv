@@ -1,0 +1,2 @@
+txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
+2025-12-04,2025-12-08 00:00:00,0001453687-25-000132,RNAC,"Cartesian Therapeutics, Inc.",0001453687,NASDAQ,2834,Pharmaceutical Preparations,Manufacturing,BARABE TIMOTHY C,0001237409,,true,false,false,P,30000.0,6.8599,205797.0,54366.0,D,178935912.0,0.0011501156905831178

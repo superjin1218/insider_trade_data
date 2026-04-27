@@ -1,0 +1,6 @@
+txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
+2026-03-16,2026-03-17 00:00:00,0001717844-26-000002,CCID,Carlyle Credit Income Fund,0001517767,NYSE,,,,Basmadjian Lauren Michelle,0001717844,,true,false,false,P,16000.0,3.22,51520.0,37448.0,D,,
+2025-12-22,2025-12-23 00:00:00,0001971028-25-000005,CCID,Carlyle Credit Income Fund,0001517767,NYSE,,,,Joseph Nelson,0001971028,"PFO, PAO & Treasurer",false,true,false,P,1200.0,4.7,5640.0,3700.0,D,,
+2025-06-27,2025-06-30 00:00:00,0001628280-25-033494,CCID,Carlyle Credit Income Fund,0001517767,NYSE,,,,MCCABE JOAN Y,0001254339,,true,false,false,P,15822.0,6.32,99995.04000000001,46180.0,D,,
+2025-06-27,2025-07-01 00:00:00,0001628280-25-033802,CCID,Carlyle Credit Income Fund,0001517767,NYSE,,,,Basmadjian Lauren Michelle,0001717844,,true,false,false,P,7898.0,6.33,49994.340000000004,21448.0,D,,
+2025-06-24,2025-06-25 00:00:00,0001628280-25-033019,CCID,Carlyle Credit Income Fund,0001517767,NYSE,,,,Mehta Nishil,0001986143,President and PEO,true,true,false,P,16650.0,6.02,100233.0,32754.209,D,,

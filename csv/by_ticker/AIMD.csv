@@ -1,0 +1,2 @@
+txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
+2025-06-23,2025-06-25 00:00:00,0000950103-25-007790,AIMD,"Ainos, Inc.",0001014763,NASDAQ,2834,Pharmaceutical Preparations,Manufacturing,"ASE Test, Inc.",0002021793,,false,false,true,P,29476.0,,,58887.0,D,12860839.331411839,

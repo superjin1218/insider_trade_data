@@ -1,0 +1,2 @@
+txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
+2026-02-03,2026-02-05 00:00:00,0001193125-26-039607,HYT,"BLACKROCK CORPORATE HIGH YIELD FUND, INC.",0001222401,NYSE,,,,Delbos David,0001743894,,false,false,false,P,100000.0,8.68,868000.0,205510.5524,D,1403843051.8219185,0.0006183027361025172

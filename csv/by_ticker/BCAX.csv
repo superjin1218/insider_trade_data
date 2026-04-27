@@ -1,0 +1,2 @@
+txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
+2026-02-26,2026-03-02 00:00:00,0001231919-26-000231,BCAX,Bicara Therapeutics Inc.,0002023658,NASDAQ,2834,Pharmaceutical Preparations,Manufacturing,"RA CAPITAL MANAGEMENT, L.P.",0001346824,,true,false,true,P,300000.0,16.0,4800000.0,4603418.0,I,1482831760.57625,0.0032370496287014044

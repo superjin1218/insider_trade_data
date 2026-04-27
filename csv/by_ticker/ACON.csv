@@ -1,0 +1,2 @@
+txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
+2025-11-26,2025-12-01 00:00:00,0001683168-25-008777,ACON,"Aclarion, Inc.",0001635077,NASDAQ,8071,Services-Medical Laboratories,Services,Ness Brent,0001903562,Chief Executive Officer,true,true,false,P,10.0,6.2,62.0,11.0,D,7531824.19116807,8.231737548083255e-06

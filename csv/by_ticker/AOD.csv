@@ -1,0 +1,4 @@
+txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
+2025-09-26,2025-09-30 00:00:00,0001104659-25-095043,AOD,abrdn Total Dynamic Dividend Fund,0001379400,NYSE,,,,MALONE PETER GERALD,0001209225,,true,false,false,P,500.0,9.48,4740.0,1500.0,D,1056573938.1895752,4.486198105663977e-06
+2025-08-01,2025-08-05 00:00:00,0001104659-25-074105,AOD,abrdn Total Dynamic Dividend Fund,0001379400,NYSE,,,,Sievwright John P.,0001579127,,true,false,false,P,350.0,8.805,3081.75,1350.0,D,1056573938.1895752,2.916738610154e-06
+2025-05-12,2025-06-11 00:00:00,0001104659-25-058546,AOD,abrdn Total Dynamic Dividend Fund,0001379400,NYSE,,,,Yao Nancy,0001662969,,true,false,false,P,200.0,8.49,1698.0,1200.0,D,1056573938.1895752,1.6070810935479816e-06

@@ -1,0 +1,2 @@
+txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
+2025-06-12,2025-06-12 00:00:00,0001062993-25-011600,CVU,CPI AEROSTRUCTURES INC,0000889348,AMEX,3728,"Aircraft Parts & Auxiliary Equipment, Nec",Manufacturing,Carey Bond E,0001691923,,true,false,false,P,10000.0,2.879,28790.0,215517.0,D,49536258.75,0.0005811904396191406

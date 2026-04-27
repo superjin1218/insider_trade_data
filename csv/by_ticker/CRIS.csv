@@ -1,0 +1,2 @@
+txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
+2026-03-31,2026-04-01 00:00:00,0001108205-26-000045,CRIS,CURIS INC,0001108205,NASDAQ,2836,"Biological Products, (No Diagnostic Substances)",Manufacturing,KAITIN KENNETH I,0001271823,,true,false,false,P,10000.0,0.5487,5487.0,11407.0,D,23987216.753166318,0.00022874683863753035

@@ -1,0 +1,2 @@
+txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
+2025-07-21,2025-07-23 00:00:00,0000892251-25-000078,CTAS,CINTAS CORP,0000723254,NASDAQ,2320,"Men's & Boys' Furnishings, Work Clothing, & Allied Garments",Manufacturing,MUCCI MARTIN,0001227211,,true,false,false,P,1200.0,222.55,267060.0,2621.0,D,70375321790.16202,3.7947961473809295e-06

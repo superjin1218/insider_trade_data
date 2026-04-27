@@ -1,0 +1,2 @@
+txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
+2025-09-11,2025-09-15 00:00:00,0001665364-25-000003,SNPS,SYNOPSYS INC,0000883241,NASDAQ,7372,Services-Prepackaged Software,Services,PAINTER ROBERT G,0001665364,,true,false,false,P,350.0,425.4397,148903.89500000002,2291.0,D,95938095765.18219,1.5520830782847385e-06

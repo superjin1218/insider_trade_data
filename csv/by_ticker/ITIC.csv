@@ -1,0 +1,2 @@
+txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
+2026-02-20,2026-02-24 00:00:00,0001967442-26-000005,ITIC,INVESTORS TITLE CO,0000720858,NASDAQ,6361,Title Insurance,"Finance, Insurance, Real Estate",Scott James E,0001967442,,true,false,false,P,500.0,220.7107,110355.35,600.0,D,463314206.8765869,0.00023818684677069568

@@ -1,0 +1,2 @@
+txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
+2025-08-25,2025-08-27 00:00:00,0000950170-25-111647,PSIX,"POWER SOLUTIONS INTERNATIONAL, INC.",0001137091,NASDAQ,3510,Engines & Turbines,Manufacturing,Li Xun,0001944401,CFO,false,true,false,P,300.0,92.82,27845.999999999996,521.0,D,1775806689.1033173,1.5680760845686793e-05

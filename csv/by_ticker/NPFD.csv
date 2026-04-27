@@ -1,0 +1,2 @@
+txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
+2025-05-05,2025-05-06 00:00:00,0001225208-25-004776,NPFD,Nuveen Variable Rate Preferred & Income Fund,0001865389,NYSE,,,,Jones Nathaniel T.,0001677581,Vice President and Treasurer,false,true,false,P,500.0,18.69,9345.0,500.0,D,460085266.7629318,2.031145240913615e-05

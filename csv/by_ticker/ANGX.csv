@@ -1,0 +1,2 @@
+txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
+2025-09-11,2025-09-22 00:00:00,0001104659-25-092278,ANGX,"Angel Studios, Inc.",0001865200,NYSE,7812,Services-Motion Picture & Video Tape Production,Services,Taylor Seth,0002020200,Chief Experience Officer,false,true,false,P,11.0,17.54,192.94,4505.0,D,463476743.3720169,4.162884173999075e-07

@@ -1,0 +1,2 @@
+txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
+2026-02-24,2026-02-25 00:00:00,0001193125-26-071771,NEU,NEWMARKET CORP,0001282637,NYSE,2860,Industrial Organic Chemicals,Manufacturing,Xu Ting,0001913563,,true,false,false,P,400.0,619.21,247684.0,929.0,D,6409915525.632202,3.864075883832669e-05

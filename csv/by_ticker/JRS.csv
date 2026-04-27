@@ -1,0 +1,2 @@
+txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
+2026-03-05,2026-03-06 00:00:00,0001225208-26-003394,JRS,NUVEEN REAL ESTATE INCOME FUND,0001158289,NYSE,,,,Siffermann William A,0001714150,Vice President,false,true,false,P,100.0,8.1125,811.2500000000001,485.3567,D,233740094.7986412,3.470735308372589e-06

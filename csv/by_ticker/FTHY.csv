@@ -1,0 +1,2 @@
+txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
+2025-08-20,2025-08-21 00:00:00,0001445546-25-005634,FTHY,FIRST TRUST HIGH YIELD OPPORTUNITIES 2027 TERM FUND,0001810523,NYSE,,,,Ziets Kevin L,0002081191,,false,false,false,P,3000.0,14.5985,43795.5,3000.0,D,501951285.82221794,8.725049867789675e-05

@@ -1,0 +1,2 @@
+txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
+2025-05-16,2025-05-16 00:00:00,0001225208-25-005222,CMI,CUMMINS INC,0000026172,NYSE,3510,Engines & Turbines,Manufacturing,Stone John H,0001817149,,true,false,false,P,1000.0,332.0799,332079.9,2441.0,D,91353590265.0,3.635105079468658e-06

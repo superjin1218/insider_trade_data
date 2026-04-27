@@ -1,0 +1,2 @@
+txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
+2026-04-09,2026-04-16 00:00:00,0001493152-26-016987,BNKK,"BONK, INC.",0001760903,NASDAQ,2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing,Rudy Mitchell Austin,0002100787,,true,false,true,P,31055.0,2.82,87575.09999999999,44198.0,I,21874313.01488161,0.00400355887475966

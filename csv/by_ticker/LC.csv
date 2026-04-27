@@ -1,0 +1,2 @@
+txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
+2025-04-30,2025-05-02 00:00:00,0001127602-25-013275,LC,LendingClub Corp,0001409970,NYSE,6141,Personal Credit Institutions,"Finance, Insurance, Real Estate",ZEISSER MICHAEL P,0001267951,,true,false,false,P,20000.0,9.35,187000.0,174138.0,D,2017748058.9938927,9.267757645285189e-05

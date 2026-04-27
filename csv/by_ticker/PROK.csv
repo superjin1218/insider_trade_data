@@ -1,0 +1,2 @@
+txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
+2025-04-22,2025-04-24 00:00:00,0001140361-25-015444,PROK,PROKIDNEY CORP.,0001850270,NASDAQ,2836,Pharmaceutical Preparations - Biotech,Manufacturing,Control Empresarial de Capitales S.A. de C.V.,0001273693,,false,false,true,P,387393.0,0.7134,276366.16620000004,73842723.0,D,,

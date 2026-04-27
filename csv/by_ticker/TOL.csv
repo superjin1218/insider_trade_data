@@ -1,0 +1,2 @@
+txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
+2025-08-06,2025-10-17 00:00:00,0000794170-25-000081,TOL,"Toll Brothers, Inc.",0000794170,NYSE,1531,Operative Builders,Construction,Sandstrom Katherine M,0001748663,,true,false,false,P,68.0,126.87,8627.16,68.0,D,13887834422.195435,6.212026827027932e-07

@@ -1,0 +1,2 @@
+txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
+2026-03-31,2026-04-02 00:00:00,0001193125-26-138961,BNR,Burning Rock Biotech Ltd,0001792267,NASDAQ,8071,Services-Medical Laboratories,Services,Han Yusheng,0001843554,,true,false,false,P,314870.0,17.36,5466143.2,17672676.0,D,222760876.9899826,0.024538165201449663

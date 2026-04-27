@@ -1,0 +1,7 @@
+txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
+2025-08-12,2025-08-13 00:00:00,0001553166-25-000003,CICB,CION Investment Corp,0001534254,NYSE,,,,Reisner Michael A,0001553166,Co-Chairman & Co-CEO,true,true,false,P,472.0,10.57,4989.04,46474.38,D,,
+2025-05-27,2025-05-28 00:00:00,0001628280-25-028072,CICB,CION Investment Corp,0001534254,NYSE,,,,FINLAY PETER I.,0001681930,,true,false,false,P,200.0,9.66,1932.0,2750.0,I,,
+2025-05-22,2025-05-22 00:00:00,0001628280-25-027203,CICB,CION Investment Corp,0001534254,NYSE,,,,ROMAN STEPHEN,0001667448,CCO & Secretary,false,true,false,P,600.0,9.48,5688.0,12890.97,D,,
+2025-05-16,2025-05-19 00:00:00,0001628280-25-026410,CICB,CION Investment Corp,0001534254,NYSE,,,,Breakstone Robert A,0001553171,,true,false,false,P,500.0,9.72,4860.0,15781.6,I,,
+2025-05-12,2025-05-13 00:00:00,0001628280-25-024992,CICB,CION Investment Corp,0001534254,NYSE,,,,Gatto Mark,0001553165,Co-Chairman & Co-CEO,true,true,false,P,2070.0,9.66,19996.2,3070.0,I,,
+2025-05-12,2025-05-13 00:00:00,0001628280-25-024949,CICB,CION Investment Corp,0001534254,NYSE,,,,Reisner Michael A,0001553166,Co-Chairman & Co-CEO,true,true,false,P,515.0,9.69,4990.349999999999,46002.38,D,,

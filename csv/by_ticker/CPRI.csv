@@ -1,0 +1,2 @@
+txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
+2026-03-11,2026-03-11 00:00:00,0001530721-26-000024,CPRI,Capri Holdings Ltd,0001530721,NYSE,3100,Leather & Leather Products,Manufacturing,IDOL JOHN D,0001040543,Chairman & CEO,true,true,false,P,55000.0,17.98,988900.0,2257645.0,D,2458309174.945383,0.000402268359927498

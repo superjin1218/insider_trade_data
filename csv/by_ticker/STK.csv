@@ -1,0 +1,2 @@
+txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
+2025-12-15,2025-12-16 00:00:00,0001140361-25-045598,STK,"Columbia Seligman Premium Technology Growth Fund, Inc.",0001471420,NYSE,,,,Carlton Pamela G,0001449984,,true,false,false,P,100.0,36.0,3600.0,100.0,D,835910639.2488556,4.3066804404295405e-06

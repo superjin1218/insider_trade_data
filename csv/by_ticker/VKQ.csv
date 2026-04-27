@@ -1,0 +1,3 @@
+txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
+2025-11-05,2025-11-07 00:00:00,0001676421-25-000006,VKQ,Invesco Municipal Trust,0000877463,NYSE,,,,O'Reilly Timothy M,0001676421,,false,false,false,P,5200.0,9.618,50013.6,10746.524,I,535094434.27176476,9.346686640100427e-05
+2025-06-03,2025-06-05 00:00:00,0000950170-25-082067,VKQ,Invesco Municipal Trust,0000877463,NYSE,,,,O'Reilly Timothy M,0001676421,,false,false,false,P,5400.0,9.19,49626.0,5400.0,I,535094434.27176476,9.274250827807313e-05

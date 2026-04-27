@@ -1,0 +1,2 @@
+txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
+2026-03-03,2026-03-25 00:00:00,0001493152-26-012588,FATN,Fatpipe Inc/UT,0001993400,NASDAQ,7372,Services-Prepackaged Software,Services,Bhaskar Ragula,0001996771,,true,false,true,P,20000.0,1.45,29000.0,2305766.0,D,27848936.0,0.0010413324228975929

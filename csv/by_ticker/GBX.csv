@@ -1,0 +1,2 @@
+txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
+2025-08-08,2025-08-11 00:00:00,0000923120-25-000055,GBX,GREENBRIER COMPANIES INC,0000923120,NYSE,3743,Railroad Equipment,Manufacturing,Huffines James R,0001504840,,true,false,false,P,2500.0,44.8433,112108.25,13909.0,D,1524963326.5851288,7.351537446546045e-05

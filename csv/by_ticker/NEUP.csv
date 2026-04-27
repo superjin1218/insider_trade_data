@@ -1,0 +1,2 @@
+txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
+2025-10-21,2025-10-23 00:00:00,0000902664-25-004536,NEUP,Neuphoria Therapeutics Inc.,0001191070,NASDAQ,2834,Pharmaceutical Preparations,Manufacturing,Lynx1 Capital Management LP,0001910456,,false,false,true,P,639110.0,5.137,3283108.07,875328.0,I,27170110.594353676,0.12083528547293712

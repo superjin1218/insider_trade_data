@@ -1,0 +1,2 @@
+txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
+2026-03-06,2026-03-10 00:00:00,0001193125-26-100355,EVR,Evercore Inc.,0001360901,NYSE,6282,Investment Advice,"Finance, Insurance, Real Estate",Williamson Sarah K,0001738671,,true,false,false,P,2000.0,290.43,580860.0,13345.0,D,13636155262.935059,4.2597050913526717e-05

@@ -1,0 +1,2 @@
+txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
+2025-06-29,2026-03-06 00:00:00,0002036687-26-000003,CBNA,CHAIN BRIDGE BANCORP INC,0001392272,NYSE,6021,National Commercial Banks,"Finance, Insurance, Real Estate",Basha Leigh-Alexandra,0002036687,,true,false,false,P,400.0,29.97,11988.0,400.0,D,230319766.68746185,5.20493754071374e-05

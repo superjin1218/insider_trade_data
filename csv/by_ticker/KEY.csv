@@ -1,0 +1,5 @@
+txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
+2025-04-22,2025-04-23 00:00:00,0000091576-25-000054,KEY,KEYCORP /NEW/,0000091576,NYSE,6021,SIC 6021,"Finance, Insurance, Real Estate",Allard Jacqui,0002050454,,true,false,false,P,180.0,14.03,2525.4,180.0,D,,
+2025-04-21,2025-04-23 00:00:00,0000091576-25-000051,KEY,KEYCORP /NEW/,0000091576,NYSE,6021,SIC 6021,"Finance, Insurance, Real Estate",Ramani Mohit,0002053125,Chief Risk Officer,false,true,false,P,10000.0,13.75,137500.0,10000.0,D,,
+2025-04-21,2025-04-23 00:00:00,0000091576-25-000053,KEY,KEYCORP /NEW/,0000091576,NYSE,6021,SIC 6021,"Finance, Insurance, Real Estate",Tobin Richard J,0001681915,,true,false,false,P,750.0,13.84,10380.0,750.0,D,,
+2025-04-21,2025-04-23 00:00:00,0000091576-25-000052,KEY,KEYCORP /NEW/,0000091576,NYSE,6021,SIC 6021,"Finance, Insurance, Real Estate",Khanna Somesh,0002050456,,true,false,false,P,100.0,13.87,1387.0,100.0,D,,

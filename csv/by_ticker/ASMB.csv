@@ -1,0 +1,2 @@
+txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
+2025-08-08,2025-10-03 00:00:00,0001123292-25-000510,ASMB,"ASSEMBLY BIOSCIENCES, INC.",0001426800,NASDAQ,2834,Pharmaceutical Preparations,Manufacturing,"GILEAD SCIENCES, INC.",0000882095,,false,false,true,P,2295920.0,,,4505391.0,D,442926998.2976074,

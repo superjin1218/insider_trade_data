@@ -1,0 +1,2 @@
+txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
+2025-11-03,2025-11-04 00:00:00,0002094616-25-000003,VACI,Viking Acquisition Corp I,0002080023,NYSE,6770,Blank Checks,"Finance, Insurance, Real Estate",Wohlin Hakan,0002094616,Chief Executive Officer,true,true,true,P,350000.0,10.0,3500000.0,8016667.0,I,317965658.0998249,0.011007478043119925

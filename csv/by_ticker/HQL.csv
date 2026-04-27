@@ -1,0 +1,2 @@
+txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
+2025-12-16,2025-12-18 00:00:00,0001104659-25-122394,HQL,abrdn Life Sciences Investors,0000884121,NYSE,,,,Pittard Christian,0001340575,,true,false,false,P,7923.0,16.8818,133754.50139999998,7923.0,D,525146985.60969925,0.0002546991700708519

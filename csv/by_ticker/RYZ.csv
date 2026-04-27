@@ -1,0 +1,2 @@
+txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
+2025-05-13,2025-05-19 00:00:00,0000899140-25-000716,RYZ,Ryerson Holding Corp,0001481582,NYSE,5051,SIC 5051,Wholesale Trade,Larson Stephen P.,0001624556,,true,false,false,P,10000.0,22.5,225000.0,93773.0,D,1358113952.113987,0.00016567092890090246

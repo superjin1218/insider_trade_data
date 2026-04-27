@@ -1,0 +1,3 @@
+txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
+2025-04-22,2025-04-23 00:00:00,0001062993-25-007859,UAN,"CVR PARTNERS, LP",0001425292,NYSE,2870,SIC 2870,Manufacturing,ICAHN CARL C,0000921669,,false,false,true,P,5021.0,74.87,375922.27,272274.0,I,,
+2025-04-21,2025-04-23 00:00:00,0001062993-25-007859,UAN,"CVR PARTNERS, LP",0001425292,NYSE,2870,SIC 2870,Manufacturing,ICAHN CARL C,0000921669,,false,false,true,P,5308.0,73.87,392101.96,267253.0,I,,

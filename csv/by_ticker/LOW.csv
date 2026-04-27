@@ -1,0 +1,2 @@
+txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
+2025-11-24,2025-11-25 00:00:00,0000060667-25-000207,LOW,LOWES COMPANIES INC,0000060667,NYSE,5211,Retail-Lumber & Other Building Materials Dealers,Retail Trade,Simkins Lawrence,0001708987,,true,false,false,P,1000.0,231.0627,231062.7,2000.0,D,136907372484.67369,1.6877301478111903e-06
