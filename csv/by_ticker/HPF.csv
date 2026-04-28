@@ -1,2 +1,2 @@
 txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
-2026-01-26,2026-01-27 00:00:00,0001779467-26-000002,HPF,JOHN HANCOCK PREFERRED INCOME FUND II,0001189740,NYSE,,,,Phelan Kenneth J,0001779467,,true,false,false,P,618.108,16.18,10000.987439999999,618.108,D,343165647.9091358,2.914332335108345e-05
+2026-01-26,2026-01-27 00:00:00,0001779467-26-000002,HPF,JOHN HANCOCK PREFERRED INCOME FUND II,0001189740,NYSE,,,,Phelan Kenneth J,0001779467,,true,false,false,P,618.108,16.18,10000.987439999999,618.108,D,343598653.75225925,2.9106596695838304e-05

@@ -1,2 +1,2 @@
 txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
-2026-03-04,2026-03-06 00:00:00,0001225208-26-003378,NMAI,Nuveen Multi-Asset Income Fund,0001861115,NYSE,,,,Siffermann William A,0001714150,Vice President,false,true,false,P,75.0,13.44,1008.0,330.0972,D,453586006.01930237,2.22229078195394e-06
+2026-03-04,2026-03-06 00:00:00,0001225208-26-003378,NMAI,Nuveen Multi-Asset Income Fund,0001861115,NYSE,,,,Siffermann William A,0001714150,Vice President,false,true,false,P,75.0,13.44,1008.0,330.0972,D,457597079.71404076,2.20281126057429e-06

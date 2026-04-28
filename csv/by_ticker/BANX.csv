@@ -1,2 +1,2 @@
 txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
-2026-03-27,2026-03-31 00:00:00,0001192482-26-000230,BANX,ArrowMark Financial Corp.,0001578987,NASDAQ,,,,Marano Thompson Melissa,0002087461,,true,false,false,P,1500.0,18.765,28147.5,1500.0,D,151599125.22823334,0.0001856705964340083
+2026-03-27,2026-03-31 00:00:00,0001192482-26-000230,BANX,ArrowMark Financial Corp.,0001578987,NASDAQ,,,,Marano Thompson Melissa,0002087461,,true,false,false,P,1500.0,18.765,28147.5,1500.0,D,152223953.59235,0.0001849084807991385

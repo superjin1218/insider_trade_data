@@ -1,2 +1,2 @@
 txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
-2026-01-11,2026-01-13 00:00:00,0001493152-26-002039,YYAI,AIRWA INC.,0001674440,NASDAQ,7370,Services-Computer Services,Services,Zhou Hongyu,0002047853,,true,false,false,P,365426.0,1.23,449473.98,856993.0,D,34430365.75839043,0.01305458045825338
+2026-01-11,2026-01-13 00:00:00,0001493152-26-002039,YYAI,AIRWA INC.,0001674440,NASDAQ,7370,Services-Computer Services,Services,Zhou Hongyu,0002047853,,true,false,false,P,365426.0,1.23,449473.98,856993.0,D,33882516.171993256,0.013265661195833146

@@ -1,3 +1,3 @@
 txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
-2025-08-05,2025-08-11 00:00:00,0001104659-25-076118,VFL,abrdn National Municipal Income Fund,0000895574,AMEX,,,,Reit Todd,0001817331,,true,false,false,P,250.0,9.64,2410.0,1250.0,D,124744508.60652542,1.931948770267497e-05
-2025-05-12,2025-06-11 00:00:00,0001104659-25-058550,VFL,abrdn National Municipal Income Fund,0000895574,AMEX,,,,Yao Nancy,0001662969,,true,false,false,P,500.0,9.96,4980.0,1500.0,D,124744508.60652542,3.992159699556903e-05
+2025-08-05,2025-08-11 00:00:00,0001104659-25-076118,VFL,abrdn National Municipal Income Fund,0000895574,AMEX,,,,Reit Todd,0001817331,,true,false,false,P,250.0,9.64,2410.0,1250.0,D,124498954.6353178,1.935759225496607e-05
+2025-05-12,2025-06-11 00:00:00,0001104659-25-058550,VFL,abrdn National Municipal Income Fund,0000895574,AMEX,,,,Yao Nancy,0001662969,,true,false,false,P,500.0,9.96,4980.0,1500.0,D,124498954.6353178,4.0000335862958935e-05

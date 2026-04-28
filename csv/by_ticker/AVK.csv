@@ -1,2 +1,2 @@
 txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
-2025-05-01,2025-05-01 00:00:00,0001415889-25-011646,AVK,ADVENT CONVERTIBLE & INCOME FUND,0001219120,NYSE,,,,Stuebe Nancy E.,0001835510,,true,false,false,P,600.0,11.21,6726.000000000001,7905.917,D,547002978.097269,1.2296093932424571e-05
+2025-05-01,2025-05-01 00:00:00,0001415889-25-011646,AVK,ADVENT CONVERTIBLE & INCOME FUND,0001219120,NYSE,,,,Stuebe Nancy E.,0001835510,,true,false,false,P,600.0,11.21,6726.000000000001,7905.917,D,546561480.532423,1.2306026384164485e-05

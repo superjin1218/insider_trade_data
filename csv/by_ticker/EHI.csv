@@ -1,2 +1,2 @@
 txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
-2025-05-27,2025-05-28 00:00:00,0000914851-25-000096,EHI,WESTERN ASSET GLOBAL HIGH INCOME FUND INC.,0001228509,NYSE,,,,GRILLO ANTHONY,0001070847,,true,false,false,P,2000.0,6.38,12760.0,2000.0,D,183616434.78623486,6.949269010072608e-05
+2025-05-27,2025-05-28 00:00:00,0000914851-25-000096,EHI,WESTERN ASSET GLOBAL HIGH INCOME FUND INC.,0001228509,NYSE,,,,GRILLO ANTHONY,0001070847,,true,false,false,P,2000.0,6.38,12760.0,2000.0,D,184222429.04831314,6.926409594053086e-05

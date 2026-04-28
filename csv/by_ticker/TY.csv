@@ -1,2 +1,2 @@
 txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
-2025-08-20,2025-08-21 00:00:00,0001140361-25-032148,TY,TRI-CONTINENTAL Corp,0000099614,NYSE,0000,SIC 0000,,Larrenaga Ryan Collins,0001629825,See Remarks,false,true,false,P,100.0,33.04,3304.0,100.0,D,1820600056.0974884,1.8147862782571943e-06
+2025-08-20,2025-08-21 00:00:00,0001140361-25-032148,TY,TRI-CONTINENTAL Corp,0000099614,NYSE,,,,Larrenaga Ryan Collins,0001629825,See Remarks,false,true,false,P,100.0,33.04,3304.0,100.0,D,1821135122.0733643,1.8142530776290737e-06

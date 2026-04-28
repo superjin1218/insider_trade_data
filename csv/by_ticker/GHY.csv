@@ -1,2 +1,2 @@
 txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
-2025-05-30,2025-06-03 00:00:00,0001601702-25-000004,GHY,"PGIM Global High Yield Fund, Inc.",0001554697,NYSE,,,,Cignarella Robert,0001601702,,false,false,false,P,9239.0,13.23,122231.97,0.0,D,486618086.52762794,0.0002511866561972933
+2025-05-30,2025-06-03 00:00:00,0001601702-25-000004,GHY,"PGIM Global High Yield Fund, Inc.",0001554697,NYSE,,,,Cignarella Robert,0001601702,,false,false,false,P,9239.0,13.23,122231.97,0.0,D,487846909.1298294,0.0002505539498405856
