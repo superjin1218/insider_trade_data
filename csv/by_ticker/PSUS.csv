@@ -1,0 +1,13 @@
+txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
+2026-04-30,2026-05-01 00:00:00,0001140361-26-018381,PSUS,"Pershing Square USA, Ltd.",0002002660,NYSE,,,,ACKMAN WILLIAM A,0001056513,Chief Executive Officer,false,true,false,P,3500000.0,50.0,175000000.0,3500000.0,D,,
+2026-04-30,2026-05-01 00:00:00,0001140361-26-018381,PSUS,"Pershing Square USA, Ltd.",0002002660,NYSE,,,,ACKMAN WILLIAM A,0001056513,Chief Executive Officer,false,true,false,P,841000.0,50.0,42050000.0,841000.0,I,,
+2026-04-30,2026-05-01 00:00:00,0001140361-26-018580,PSUS,"Pershing Square USA, Ltd.",0002002660,NYSE,,,,ISRAEL RYAN,0001597463,Chief Investment Officer,false,true,false,P,500000.0,50.0,25000000.0,500000.0,D,,
+2026-04-30,2026-05-01 00:00:00,0001140361-26-018381,PSUS,"Pershing Square USA, Ltd.",0002002660,NYSE,,,,ACKMAN WILLIAM A,0001056513,Chief Executive Officer,false,true,false,P,500000.0,42.0,21000000.0,4000000.0,D,,
+2026-04-30,2026-05-01 00:00:00,0001140361-26-018587,PSUS,"Pershing Square USA, Ltd.",0002002660,NYSE,,,,Botta Nicholas Anthony,0002026505,,true,false,false,P,250000.0,50.0,12500000.0,250000.0,D,,
+2026-04-30,2026-05-01 00:00:00,0001140361-26-018581,PSUS,"Pershing Square USA, Ltd.",0002002660,NYSE,,,,Hakim Ben,0001818663,President,false,true,false,P,250000.0,50.0,12500000.0,350000.0,D,,
+2026-04-30,2026-05-01 00:00:00,0001140361-26-018583,PSUS,"Pershing Square USA, Ltd.",0002002660,NYSE,,,,Coussin Halit,0002026110,Chief Compliance Officer,false,true,false,P,200000.0,50.0,10000000.0,200000.0,D,,
+2026-04-30,2026-05-01 00:00:00,0001140361-26-018575,PSUS,"Pershing Square USA, Ltd.",0002002660,NYSE,,,,Gonnella Michael,0001831649,Chief Financial Officer,false,true,false,P,100000.0,50.0,5000000.0,100000.0,D,,
+2026-04-30,2026-05-01 00:00:00,0001140361-26-018581,PSUS,"Pershing Square USA, Ltd.",0002002660,NYSE,,,,Hakim Ben,0001818663,President,false,true,false,P,100000.0,50.0,5000000.0,100000.0,D,,
+2026-04-30,2026-05-01 00:00:00,0001140361-26-018381,PSUS,"Pershing Square USA, Ltd.",0002002660,NYSE,,,,ACKMAN WILLIAM A,0001056513,Chief Executive Officer,false,true,false,P,34971.0,50.0,1748550.0,56171.0,I,,
+2026-04-30,2026-05-01 00:00:00,0001140361-26-018381,PSUS,"Pershing Square USA, Ltd.",0002002660,NYSE,,,,ACKMAN WILLIAM A,0001056513,Chief Executive Officer,false,true,false,P,21200.0,50.0,1060000.0,21200.0,I,,
+2026-04-30,2026-05-01 00:00:00,0001140361-26-018576,PSUS,"Pershing Square USA, Ltd.",0002002660,NYSE,,,,Falzone Jessica A,0001766617,Secretary,false,true,false,P,2000.0,50.0,100000.0,2000.0,D,,
