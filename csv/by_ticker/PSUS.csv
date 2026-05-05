@@ -10,4 +10,5 @@ txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_ind
 2026-04-30,2026-05-01 00:00:00,0001140361-26-018581,PSUS,"Pershing Square USA, Ltd.",0002002660,NYSE,,,,Hakim Ben,0001818663,President,false,true,false,P,100000.0,50.0,5000000.0,100000.0,D,,
 2026-04-30,2026-05-01 00:00:00,0001140361-26-018381,PSUS,"Pershing Square USA, Ltd.",0002002660,NYSE,,,,ACKMAN WILLIAM A,0001056513,Chief Executive Officer,false,true,false,P,34971.0,50.0,1748550.0,56171.0,I,,
 2026-04-30,2026-05-01 00:00:00,0001140361-26-018381,PSUS,"Pershing Square USA, Ltd.",0002002660,NYSE,,,,ACKMAN WILLIAM A,0001056513,Chief Executive Officer,false,true,false,P,21200.0,50.0,1060000.0,21200.0,I,,
+2026-04-30,2026-05-04 00:00:00,0001140361-26-018964,PSUS,"Pershing Square USA, Ltd.",0002002660,NYSE,,,,Herring Bruce,0002028544,,true,false,false,P,10000.0,43.414,434140.0,10000.0,D,,
 2026-04-30,2026-05-01 00:00:00,0001140361-26-018576,PSUS,"Pershing Square USA, Ltd.",0002002660,NYSE,,,,Falzone Jessica A,0001766617,Secretary,false,true,false,P,2000.0,50.0,100000.0,2000.0,D,,
