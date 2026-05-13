@@ -1,0 +1,2 @@
+txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
+2026-05-11,2026-05-12 00:00:00,0001628280-26-034291,ZTS,Zoetis Inc.,0001555280,NYSE,2834,Pharmaceutical Preparations,Manufacturing,MCCALLISTER MICHAEL B,0001018657,,true,false,false,P,3000.0,77.7578,233273.40000000002,24524.0,I,32255412422.426147,7.2320699839451615e-06
