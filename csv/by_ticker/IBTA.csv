@@ -1,2 +1,2 @@
 txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
-2026-01-08,2026-01-12 00:00:00,0001628280-26-001841,IBTA,"Ibotta, Inc.",0001538379,NYSE,7310,Services-Advertising,Services,Riedy Christopher J,0002052469,Chief Revenue Officer,false,true,false,P,276041.0,0.0,0.0,397507.0,D,848902967.6145172,0.0
+2026-01-08,2026-01-12 00:00:00,0001628280-26-001841,IBTA,"Ibotta, Inc.",0001538379,NYSE,7310,Services-Advertising,Services,Riedy Christopher J,0002052469,Chief Revenue Officer,false,true,false,P,276041.0,0.0,0.0,397507.0,D,752014280.3533058,0.0
