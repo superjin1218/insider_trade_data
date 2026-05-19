@@ -1,0 +1,3 @@
+txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
+2026-04-28,2026-05-18 00:00:00,0001213900-26-058450,AMST,Amesite Inc.,0001807166,NASDAQ,7372,Services-Prepackaged Software,Services,Parmer George,0001626673,,true,false,false,P,243902.0,1.435,349999.37,566962.0,D,,
+2026-04-28,2026-05-18 00:00:00,0001213900-26-058452,AMST,Amesite Inc.,0001807166,NASDAQ,7372,Services-Prepackaged Software,Services,Sastry Ann Marie,0001735506,CHIEF EXECUTIVE OFFICER,true,true,false,P,174216.0,1.435,249999.96000000002,1049647.0,D,,

@@ -1,0 +1,2 @@
+txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
+2026-05-15,2026-05-18 00:00:00,0001213900-26-058448,IPM,INTELLIGENT PROTECTION MANAGEMENT CORP.,0001355839,NASDAQ,7370,Services-Computer Services,Services,Abada Yoram,0001100712,,true,false,false,P,1000.0,1.89,1890.0,15500.0,D,24116098.960796,7.837088424095672e-05
