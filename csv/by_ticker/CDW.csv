@@ -1,0 +1,2 @@
+txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
+2026-05-18,2026-05-19 00:00:00,0001402057-26-000034,CDW,CDW Corp,0001402057,NASDAQ,5961,Retail-Catalog & Mail-Order Houses,Retail Trade,LEAHY CHRISTINE A,0001215336,See Remarks,true,true,false,P,4830.0,103.395,499397.85,193356.67,D,13331072416.913704,3.746119099663674e-05
