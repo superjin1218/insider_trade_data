@@ -1,2 +1,2 @@
 txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
-2025-05-22,2025-05-23 00:00:00,0001641172-25-012327,UAVS,AgEagle Aerial Systems Inc.,0000008504,AMEX,3721,Aircraft,Manufacturing,DAY L B,0001181929,,true,false,false,P,4000.0,0.78,3120.0,19000.0,D,60681587.764312744,5.141592557067027e-05
+2025-05-22,2025-05-23 00:00:00,0001641172-25-012327,UAVS,AgEagle Aerial Systems Inc.,0000008504,AMEX,3721,Aircraft,Manufacturing,DAY L B,0001181929,,true,false,false,P,4000.0,0.78,3120.0,19000.0,D,55667263.301467896,5.604730347715384e-05

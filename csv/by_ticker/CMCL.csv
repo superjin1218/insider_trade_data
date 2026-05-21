@@ -1,2 +1,2 @@
 txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
-2026-05-13,2026-05-15 00:00:00,0002123122-26-000002,CMCL,Caledonia Mining Corp Plc,0000766011,AMEX,1040,Gold Mining,Mining,Ndlovu July,0002123122,,true,false,false,P,15000.0,24.81,372150.0,229089.0,D,446517223.5681381,0.0008334504927405343
+2026-05-13,2026-05-15 00:00:00,0002123122-26-000002,CMCL,Caledonia Mining Corp Plc,0000766011,AMEX,1040,Gold Mining,Mining,Ndlovu July,0002123122,,true,false,false,P,15000.0,24.81,372150.0,229089.0,D,443427105.1983948,0.0008392585740411504

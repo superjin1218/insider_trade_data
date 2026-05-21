@@ -1,0 +1,2 @@
+txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
+2026-05-18,2026-05-20 00:00:00,0001683168-26-004145,CNSP,"CNS Pharmaceuticals, Inc.",0001729427,NASDAQ,2834,Pharmaceutical Preparations,Manufacturing,Charles Faith L.,0001853985,,true,false,false,P,7100.0,4.789,34001.9,7100.0,D,7453389.760625362,0.004561937734643189
