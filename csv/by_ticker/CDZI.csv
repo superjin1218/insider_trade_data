@@ -1,0 +1,2 @@
+txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
+2026-05-26,2026-05-28 00:00:00,0002125738-26-000003,CDZI,CADIZ INC,0000727273,NASDAQ,4941,Water Supply,"Transportation, Communications, Electric, Gas",O'Hara David Mark,0002125738,,true,false,false,P,110865.0,4.58,507761.7,117841.0,D,368297942.30291176,0.0013786710206009902
