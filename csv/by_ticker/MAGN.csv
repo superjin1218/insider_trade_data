@@ -1,3 +1,2 @@
 txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
 2025-06-05,2025-06-05 00:00:00,0001127602-25-016823,MAGN,Magnera Corp,0000041719,NYSE,2621,Paper Mills,Manufacturing,Marnick Samantha J.,0001510064,,true,false,false,P,4000.0,12.3777,49510.8,4000.0,D,368460013.58032227,0.0001343722471236541
-2025-06-04,2025-06-05 00:00:00,0001127602-25-016838,MAGN,Magnera Corp,0000041719,NYSE,2621,Paper Mills,Manufacturing,Curless Michael S,0001580949,,true,false,false,P,10000.0,12.2939,122939.0,10000.0,I,368460013.58032227,0.00033365628689366577

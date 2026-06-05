@@ -1,0 +1,2 @@
+txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
+2026-06-03,2026-06-04 00:00:00,0002117905-26-000007,AUGO,Aura Minerals Inc.,0001468642,NASDAQ,1000,Metal Mining,Mining,Sousa Mauad Bruno,0002117905,,true,false,false,P,2800.0,64.95,181860.0,437765.0,I,5582810000.0,3.257499359641471e-05
