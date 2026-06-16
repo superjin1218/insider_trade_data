@@ -1,4 +1,2 @@
 txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
 2025-11-07,2025-11-10 00:00:00,0000950103-25-014514,GECC,Great Elm Capital Corp.,0001675033,NASDAQ,,,,Kaplan Matthew D,0001916576,CEO and President,false,true,false,P,19650.0,7.64,150126.0,142400.0,D,76684088.13503027,0.0019577203517846947
-2025-06-13,2025-06-13 00:00:00,0001140361-25-022458,GECC,Great Elm Capital Corp.,0001675033,NASDAQ,,,,COHEN RICHARD M,0001075891,,true,false,false,P,36.0,11.0082,396.2952,18136.0,D,76684088.13503027,5.167893491830769e-06
-2025-06-12,2025-06-12 00:00:00,0001140361-25-022349,GECC,Great Elm Capital Corp.,0001675033,NASDAQ,,,,COHEN RICHARD M,0001075891,,true,false,false,P,3100.0,10.95,33945.0,18100.0,D,76684088.13503027,0.00044266028097285923
