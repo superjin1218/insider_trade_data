@@ -1,0 +1,2 @@
+txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
+2026-06-15,2026-06-16 00:00:00,0001193125-26-273170,PYPL,"PayPal Holdings, Inc.",0001633917,NASDAQ,7389,"Services-Business Services, Nec",Services,Miller Jamie S,0001290697,Chief Fin & Op Officer,false,true,false,P,6129.0,41.53,254537.37,76904.0,D,38503904769.45,6.610689786505929e-06
