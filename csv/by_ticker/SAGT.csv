@@ -1,0 +1,2 @@
+txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
+2026-06-18,2026-06-18 00:00:00,0001213900-26-070184,SAGT,SAGTEC GLOBAL Ltd,0002029138,NASDAQ,7372,Services-Prepackaged Software,Services,Ng Chen Lok,0002070001,Chief Executive Officer,true,true,true,P,1500000.0,1.04,1560000.0,8452600.0,D,18859500.181674957,0.08271693231381558
