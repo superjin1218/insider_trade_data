@@ -1,0 +1,2 @@
+txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
+2026-06-26,2026-06-30 00:00:00,0001104659-26-079316,PRQR,ProQR Therapeutics N.V.,0001612940,NASDAQ,2834,Pharmaceutical Preparations,Manufacturing,Filius Bart,0002115417,,true,false,false,P,150000.0,1.54,231000.0,150000.0,D,256843014.23535955,0.0008993820629605361
