@@ -1,0 +1,2 @@
+txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
+2026-07-07,2026-07-07 00:00:00,0001580642-26-004267,PSBD,Palmer Square Capital BDC Inc.,0001794776,NYSE,,,,Bicknell Martin C,0001410839,,false,false,true,P,21484.0,10.47,224937.48,373472.0,I,323967668.99134064,0.000694320765712002
