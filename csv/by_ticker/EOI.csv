@@ -1,2 +1,2 @@
 txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
-2026-07-13,2026-07-13 00:00:00,0001225208-26-006586,EOI,Eaton Vance Enhanced Equity Income Fund,0001300391,NYSE,,,,Gaffney Charles,0001981671,,false,false,false,P,25000.0,20.1082,502705.0,25000.0,D,824545152.28,0.000609675526694857
+2026-07-13,2026-07-13 00:00:00,0001225208-26-006586,EOI,Eaton Vance Enhanced Equity Income Fund,0001300391,NYSE,,,,Gaffney Charles,0001981671,,false,false,false,P,25000.0,20.1082,502705.0,25000.0,D,824955204.1700363,0.0006093724816316021
