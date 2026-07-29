@@ -1,2 +1,2 @@
 txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
-2025-10-13,2025-10-14 00:00:00,0001364241-25-000004,EMO,ClearBridge Energy Midstream Opportunity Fund Inc.,0001517518,NYSE,,,,Agdern Robert D,0001364241,,true,false,false,P,385.0,42.11,16212.35,1538.0,D,1030553177.8238869,1.573169667404641e-05
+2025-10-13,2025-10-14 00:00:00,0001364241-25-000004,EMO,ClearBridge Energy Midstream Opportunity Fund Inc.,0001517518,NYSE,,,,Agdern Robert D,0001364241,,true,false,false,P,385.0,42.11,16212.35,1538.0,D,1016342734.6280823,1.5951656313982216e-05
