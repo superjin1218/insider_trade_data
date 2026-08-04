@@ -1,0 +1,2 @@
+txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
+2026-07-30,2026-08-03 00:00:00,0000950103-26-011715,MBLY,Mobileye Global Inc.,0001910139,NASDAQ,7372,Services-Prepackaged Software,Services,Yeary Frank D,0001458902,,true,false,false,P,12360.0,7.98,98632.8,12360.0,I,2039550230.64,4.8360073960546466e-05
