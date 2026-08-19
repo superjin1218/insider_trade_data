@@ -1,0 +1,2 @@
+txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
+2026-08-14,2026-08-18 00:00:00,0001628280-26-057729,FTI,TechnipFMC plc,0001681459,NYSE,3533,Oil & Gas Field Machinery & Equipment,Manufacturing,Mullins Eric D.,0001524717,,true,false,false,P,6365.0,78.55,499970.75,8070.0,D,30702550295.55722,1.6284339417639443e-05
