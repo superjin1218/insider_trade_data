@@ -1,0 +1,2 @@
+txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
+2026-08-20,2026-08-21 00:00:00,0001628280-26-058425,ALCO,"ALICO, INC.",0000003545,NASDAQ,0100,Agricultural Production - Crops,"Agriculture, Forestry, Fishing",SPERON ERIC H.,0001664559,,true,false,false,P,1250.0,39.732,49665.0,2310.0,D,299042204.09784317,0.00016608023656670943
