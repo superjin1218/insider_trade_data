@@ -1,0 +1,2 @@
+txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
+2026-08-27,2026-08-27 00:00:00,0001213900-26-094460,JTTT,JATT III Acquisition Corp,0002145659,NASDAQ,6770,Blank Checks,"Finance, Insurance, Real Estate",JATT Ventures III L.P.,0002150876,,false,false,true,P,234000.0,10.0,2340000.0,1959000.0,D,94788748.02589417,0.02468647438365537
