@@ -1,0 +1,2 @@
+txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
+2026-08-31,2026-09-01 00:00:00,0001398344-26-016363,CLM,"Cornerstone Strategic Investment Fund, Inc.",0000814083,AMEX,0000,SIC 0000,,Greer Peter,0002051646,,true,false,false,P,1500.0,6.63,9945.0,1500.0,D,2050774655.792769,4.849387021586512e-06
