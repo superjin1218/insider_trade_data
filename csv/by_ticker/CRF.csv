@@ -1,2 +1,2 @@
 txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
-2026-08-31,2026-09-01 00:00:00,0001398344-26-016361,CRF,CORNERSTONE TOTAL RETURN FUND INC,0000033934,AMEX,,,,Greer Peter,0002051646,,true,false,false,P,1500.0,6.405,9607.5,1501.364,D,1079471706.4601746,8.90018695488102e-06
+2026-08-31,2026-09-01 00:00:00,0001398344-26-016361,CRF,CORNERSTONE TOTAL RETURN FUND INC,0000033934,AMEX,,,,Greer Peter,0002051646,,true,false,false,P,1500.0,6.405,9607.5,1501.364,D,1089687517.037609,8.816747782996223e-06
