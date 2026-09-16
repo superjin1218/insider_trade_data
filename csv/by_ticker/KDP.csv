@@ -1,2 +1,2 @@
 txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
-2026-08-25,2026-08-27 00:00:00,0001741576-26-000008,KDP,Keurig Dr Pepper Inc.,0001418135,NASDAQ,2080,Beverages,Manufacturing,Alt Aaron E,0001741576,,true,false,false,P,7862.0,31.83,250247.46,7862.0,D,42974886176.21721,5.8231093149116886e-06
+2026-08-25,2026-08-27 00:00:00,0001741576-26-000008,KDP,Keurig Dr Pepper Inc.,0001418135,NASDAQ,2080,Beverages,Manufacturing,Alt Aaron E,0001741576,,true,false,false,P,7862.0,31.83,250247.46,7862.0,D,42852411625.15164,5.839752081843642e-06
