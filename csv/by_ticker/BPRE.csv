@@ -1,2 +1,12 @@
 txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
+2026-09-14,2026-09-18 00:00:00,0001398344-26-017226,BPRE,Bluerock Private Real Estate Fund,0001551047,NYSE,,,,MacDonald Ryan S,0001722524,,false,false,false,P,5500.0,12.0,66000.0,9930.0,D,,
+2026-09-14,2026-09-18 00:00:00,0001398344-26-017226,BPRE,Bluerock Private Real Estate Fund,0001551047,NYSE,,,,MacDonald Ryan S,0001722524,,false,false,false,P,4000.0,11.99,47960.0,13930.0,D,,
+2026-09-14,2026-09-18 00:00:00,0001398344-26-017226,BPRE,Bluerock Private Real Estate Fund,0001551047,NYSE,,,,MacDonald Ryan S,0001722524,,false,false,false,P,2895.0,11.93,34537.35,19525.0,D,,
+2026-09-14,2026-09-18 00:00:00,0001398344-26-017226,BPRE,Bluerock Private Real Estate Fund,0001551047,NYSE,,,,MacDonald Ryan S,0001722524,,false,false,false,P,2600.0,11.92,30992.0,22125.0,D,,
+2026-09-14,2026-09-18 00:00:00,0001398344-26-017226,BPRE,Bluerock Private Real Estate Fund,0001551047,NYSE,,,,MacDonald Ryan S,0001722524,,false,false,false,P,2550.0,11.9,30345.0,25175.0,D,,
+2026-09-14,2026-09-18 00:00:00,0001398344-26-017226,BPRE,Bluerock Private Real Estate Fund,0001551047,NYSE,,,,MacDonald Ryan S,0001722524,,false,false,false,P,1900.0,11.94,22686.0,16630.0,D,,
+2026-09-14,2026-09-18 00:00:00,0001398344-26-017226,BPRE,Bluerock Private Real Estate Fund,0001551047,NYSE,,,,MacDonald Ryan S,0001722524,,false,false,false,P,500.0,11.91,5955.0,22625.0,D,,
+2026-09-14,2026-09-18 00:00:00,0001398344-26-017226,BPRE,Bluerock Private Real Estate Fund,0001551047,NYSE,,,,MacDonald Ryan S,0001722524,,false,false,false,P,400.0,11.98,4792.0,14330.0,D,,
+2026-09-14,2026-09-18 00:00:00,0001398344-26-017226,BPRE,Bluerock Private Real Estate Fund,0001551047,NYSE,,,,MacDonald Ryan S,0001722524,,false,false,false,P,300.0,11.95,3585.0,14730.0,D,,
+2026-09-14,2026-09-18 00:00:00,0001398344-26-017226,BPRE,Bluerock Private Real Estate Fund,0001551047,NYSE,,,,MacDonald Ryan S,0001722524,,false,false,false,P,100.0,11.96,1196.0,14430.0,D,,
 2026-06-04,2026-06-08 00:00:00,0001398344-26-010568,BPRE,Bluerock Private Real Estate Fund,0001551047,NYSE,,,,KAMFAR RAMIN,0001111908,,false,false,false,P,1667.0,15.0,25005.0,25005.0,I,,
