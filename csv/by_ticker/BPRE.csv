@@ -1,4 +1,5 @@
 txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
+2026-09-21,2026-09-23 00:00:00,0001398344-26-017349,BPRE,Bluerock Private Real Estate Fund,0001551047,NYSE,,,,MacDonald Ryan S,0001722524,,true,false,false,P,10400.0,11.9733,124522.32,35575.0,D,,
 2026-09-14,2026-09-18 00:00:00,0001398344-26-017226,BPRE,Bluerock Private Real Estate Fund,0001551047,NYSE,,,,MacDonald Ryan S,0001722524,,false,false,false,P,5500.0,12.0,66000.0,9930.0,D,,
 2026-09-14,2026-09-18 00:00:00,0001398344-26-017226,BPRE,Bluerock Private Real Estate Fund,0001551047,NYSE,,,,MacDonald Ryan S,0001722524,,false,false,false,P,4000.0,11.99,47960.0,13930.0,D,,
 2026-09-14,2026-09-18 00:00:00,0001398344-26-017226,BPRE,Bluerock Private Real Estate Fund,0001551047,NYSE,,,,MacDonald Ryan S,0001722524,,false,false,false,P,2895.0,11.93,34537.35,19525.0,D,,
