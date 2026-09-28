@@ -1,0 +1,2 @@
+txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
+2026-09-24,2026-09-25 00:00:00,0001180645-26-000001,DHF,BNY MELLON HIGH YIELD STRATEGIES FUND,0001057861,NYSE,,,,DIMARTINO JOSEPH S,0001180645,,true,false,false,P,20000.0,2.22,44400.00000000001,240000.0,D,162929836.85366964,0.0002725099395998075
