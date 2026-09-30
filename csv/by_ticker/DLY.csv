@@ -1,2 +1,2 @@
 txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
-2026-09-24,2026-09-25 00:00:00,0000904454-26-000490,DLY,DoubleLine Yield Opportunities Fund,0001788399,NYSE,,,,Sherman Jeffrey J.,0001539718,Vice President,false,true,false,P,10000.0,13.03,130300.0,,D,634405473.247055,0.00020538914857258422
+2026-09-24,2026-09-25 00:00:00,0000904454-26-000490,DLY,DoubleLine Yield Opportunities Fund,0001788399,NYSE,,,,Sherman Jeffrey J.,0001539718,Vice President,false,true,false,P,10000.0,13.03,130300.0,,D,640715556.3419094,0.00020336637484491966

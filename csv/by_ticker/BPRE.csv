@@ -1,4 +1,10 @@
 txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
+2026-09-25,2026-09-29 00:00:00,0001398344-26-017550,BPRE,Bluerock Private Real Estate Fund,0001551047,NYSE,,,,KAMFAR RAMIN,0001111908,,true,false,false,P,29970.0,12.4574,373348.278,480770.0,I,,
+2026-09-24,2026-09-29 00:00:00,0001398344-26-017550,BPRE,Bluerock Private Real Estate Fund,0001551047,NYSE,,,,KAMFAR RAMIN,0001111908,,true,false,false,P,115229.0,12.3899,1427675.7871,450800.0,I,,
+2026-09-23,2026-09-29 00:00:00,0001398344-26-017550,BPRE,Bluerock Private Real Estate Fund,0001551047,NYSE,,,,KAMFAR RAMIN,0001111908,,true,false,false,P,150000.0,12.4752,1871279.9999999998,329763.0,I,,
+2026-09-23,2026-09-29 00:00:00,0001398344-26-017550,BPRE,Bluerock Private Real Estate Fund,0001551047,NYSE,,,,KAMFAR RAMIN,0001111908,,true,false,false,P,5808.0,12.45,72309.59999999999,335571.0,I,,
+2026-09-22,2026-09-29 00:00:00,0001398344-26-017538,BPRE,Bluerock Private Real Estate Fund,0001551047,NYSE,,,,KAMFAR RAMIN,0001111908,,true,false,false,P,111885.0,12.0205,1344913.6425,179763.0,I,,
+2026-09-21,2026-09-29 00:00:00,0001398344-26-017538,BPRE,Bluerock Private Real Estate Fund,0001551047,NYSE,,,,KAMFAR RAMIN,0001111908,,true,false,false,P,67878.0,11.963,812024.514,67878.0,I,,
 2026-09-21,2026-09-23 00:00:00,0001398344-26-017349,BPRE,Bluerock Private Real Estate Fund,0001551047,NYSE,,,,MacDonald Ryan S,0001722524,,true,false,false,P,10400.0,11.9733,124522.32,35575.0,D,,
 2026-09-14,2026-09-18 00:00:00,0001398344-26-017226,BPRE,Bluerock Private Real Estate Fund,0001551047,NYSE,,,,MacDonald Ryan S,0001722524,,false,false,false,P,5500.0,12.0,66000.0,9930.0,D,,
 2026-09-14,2026-09-18 00:00:00,0001398344-26-017226,BPRE,Bluerock Private Real Estate Fund,0001551047,NYSE,,,,MacDonald Ryan S,0001722524,,false,false,false,P,4000.0,11.99,47960.0,13930.0,D,,
