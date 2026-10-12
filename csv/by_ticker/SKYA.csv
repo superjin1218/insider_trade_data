@@ -1,0 +1,2 @@
+txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
+2026-10-07,2026-10-09 00:00:00,0000921895-26-002775,SKYA,"SkyAI, Inc.",0001737995,NASDAQ,6199,Finance Services,"Finance, Insurance, Real Estate",Bastion Trading Ltd,0002106951,,false,false,true,P,44000.0,1.7787,78262.8,1429417.0,D,112875986.12315607,0.0006933520821214309
