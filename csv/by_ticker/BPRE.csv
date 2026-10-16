@@ -1,6 +1,8 @@
 txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
 2026-10-14,2026-10-14 00:00:00,0001398344-26-018199,BPRE,Bluerock Private Real Estate Fund,0001551047,NYSE,,,,KAMFAR RAMIN,0001111908,,true,false,false,P,157661.0,12.6332,1991762.9452,2254640.0,I,,
+2026-10-14,2026-10-15 00:00:00,0001398344-26-018255,BPRE,Bluerock Private Real Estate Fund,0001551047,NYSE,,,,Ruddy Jordan B.,0001575426,President,false,true,false,P,3520.0,12.59,44316.8,17192.0,D,,
 2026-10-13,2026-10-14 00:00:00,0001398344-26-018199,BPRE,Bluerock Private Real Estate Fund,0001551047,NYSE,,,,KAMFAR RAMIN,0001111908,,true,false,false,P,110964.0,12.8506,1425953.9784,2096979.0,I,,
+2026-10-13,2026-10-15 00:00:00,0001398344-26-018261,BPRE,Bluerock Private Real Estate Fund,0001551047,NYSE,,,,MacDonald Ryan S,0001722524,,true,false,false,P,120.0,12.8,1536.0,42395.0,D,,
 2026-10-12,2026-10-14 00:00:00,0001398344-26-018199,BPRE,Bluerock Private Real Estate Fund,0001551047,NYSE,,,,KAMFAR RAMIN,0001111908,,true,false,false,P,158984.0,12.9589,2060257.7576,1986015.0,I,,
 2026-10-09,2026-10-09 00:00:00,0001398344-26-018110,BPRE,Bluerock Private Real Estate Fund,0001551047,NYSE,,,,KAMFAR RAMIN,0001111908,,true,false,false,P,171094.0,13.1692,2253171.1048,1827031.0,I,,
 2026-10-08,2026-10-09 00:00:00,0001398344-26-018110,BPRE,Bluerock Private Real Estate Fund,0001551047,NYSE,,,,KAMFAR RAMIN,0001111908,,true,false,false,P,150937.0,13.0481,1969441.0696999999,1655937.0,I,,
