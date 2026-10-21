@@ -1,2 +1,2 @@
 txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
-2026-10-14,2026-10-15 00:00:00,0001510281-26-000351,MXE,MEXICO EQUITY & INCOME FUND INC,0000863900,NYSE,,,,"Saba Capital Management, L.P.",0001510281,,false,false,true,P,12791.0,19.88,254285.08,2406625.0,I,57026708.80785465,0.00445905235136024
+2026-10-14,2026-10-15 00:00:00,0001510281-26-000351,MXE,MEXICO EQUITY & INCOME FUND INC,0000863900,NYSE,,,,"Saba Capital Management, L.P.",0001510281,,false,false,true,P,12791.0,19.88,254285.08,2406625.0,I,57202717.0,0.004445332203363696
