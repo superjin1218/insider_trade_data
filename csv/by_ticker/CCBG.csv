@@ -1,0 +1,2 @@
+txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
+2026-10-26,2026-10-26 00:00:00,0001899058-26-000006,CCBG,CAPITAL CITY BANK GROUP INC,0000726601,NASDAQ,6022,State Commercial Banks,"Finance, Insurance, Real Estate",Butler William F,0001899058,,true,false,false,P,392.0,51.0699,20019.4008,7137.0,D,871066843.4128189,2.298262291968831e-05
