@@ -1,2 +1,2 @@
 txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
-2026-10-23,2026-10-27 00:00:00,0001225208-26-008525,NUV,NUVEEN MUNICIPAL VALUE FUND INC,0000812801,NYSE,,,,Robert Young L,0001379422,,false,false,false,P,36430.0,8.2458,300394.49399999995,36430.0,D,1726746007.0633316,0.0001739656514456804
+2026-10-23,2026-10-27 00:00:00,0001225208-26-008525,NUV,NUVEEN MUNICIPAL VALUE FUND INC,0000812801,NYSE,,,,Robert Young L,0001379422,,false,false,false,P,36430.0,8.2458,300394.49399999995,36430.0,D,1739247353.7095213,0.00017271522268486376
