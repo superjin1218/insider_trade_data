@@ -1,2 +1,2 @@
 txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
-2026-10-24,2026-10-27 00:00:00,0001368766-26-000005,TISI,TEAM INC,0000318833,NYSE,7600,Services-Misc Repair Services,Services,Caliel Michael J,0001368766,,true,false,false,P,25293.0,0.0,0.0,116984.0,D,109492860.21263123,0.0
+2026-10-24,2026-10-27 00:00:00,0001368766-26-000005,TISI,TEAM INC,0000318833,NYSE,7600,Services-Misc Repair Services,Services,Caliel Michael J,0001368766,,true,false,false,P,25293.0,0.0,0.0,116984.0,D,109997016.0,0.0
