@@ -1,0 +1,2 @@
+txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
+2026-11-12,2026-11-12 00:00:00,0001562356-26-000004,BOOT,"Boot Barn Holdings, Inc.",0001610250,NYSE,5661,Retail-Shoe Stores,Retail Trade,Watkins James M,0001562356,CFO & SECRETARY,false,true,false,P,2000.0,135.37,270740.0,27831.0,D,3997332054.183258,6.773017510933754e-05

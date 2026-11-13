@@ -1,0 +1,2 @@
+txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
+2026-11-10,2026-11-12 00:00:00,0001332349-26-000074,BKD,Brookdale Senior Living Inc.,0001332349,NYSE,8050,Services-Nursing & Personal Care Facilities,Services,WINKLE C CHRISTIAN,0001202992,,true,false,false,P,40000.0,8.9517,358068.0,40000.0,I,2144271852.969183,0.0001669881547454823
