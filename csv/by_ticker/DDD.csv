@@ -1,0 +1,2 @@
+txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
+2026-11-16,2026-11-18 00:00:00,0001628280-26-074826,DDD,3D SYSTEMS CORP,0000910638,NYSE,7372,Services-Prepackaged Software,Services,KEVER JIM D,0001105965,,true,false,false,P,400000.0,1.43,572000.0,960650.0,D,268304557.73777246,0.0021319056404514917
