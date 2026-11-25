@@ -1,0 +1,2 @@
+txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
+2026-11-23,2026-11-24 00:00:00,0002094759-26-000003,WKHS,Workhorse Group Inc.,0001425287,NASDAQ,3711,Motor Vehicles & Passenger Car Bodies,Manufacturing,O'Leary Matthew C.,0002094759,,true,false,false,P,10000.0,1.89,18900.0,10000.0,I,20655025.493665338,0.0009150315503506116

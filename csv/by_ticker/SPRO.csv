@@ -1,0 +1,2 @@
+txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
+2026-11-23,2026-11-24 00:00:00,0001193125-26-476041,SPRO,"Spero Therapeutics, Inc.",0001701108,NASDAQ,2834,Pharmaceutical Preparations,Manufacturing,THOMAS FRANK E,0001242616,,true,false,false,P,25000.0,0.8,20000.0,110000.0,D,45446368.39303708,0.0004400791681973919
