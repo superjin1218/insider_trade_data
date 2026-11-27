@@ -1,0 +1,2 @@
+txn_date,filed_at,accession_no,ticker,company_name,cik,exchange,sic_code,sic_industry,sic_major_group,insider_name,insider_cik,insider_title,is_director,is_officer,is_ten_percent,txn_code,shares,price_per_share,total_value_usd,shares_owned_after,ownership_form,market_cap_usd,ratio_to_mcap
+2026-11-24,2026-11-25 00:00:00,0001414260-26-000006,CLW,Clearwater Paper Corp,0001441236,NYSE,2631,Paperboard Mills,Manufacturing,TOELDTE ALEXANDER,0001414260,,true,false,false,P,7617.0,16.501,125688.11700000001,7617.0,I,287403276.1110611,0.0004373231881721154
